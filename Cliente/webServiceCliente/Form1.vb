@@ -1,9 +1,5 @@
-﻿
-'Para poder usar o JavaScriptSerializer (JSON)
-Imports System.Web.Script.Serialization
+﻿Imports System.Web.Script.Serialization
 
-
-'Adicionar Referencias = System.Web.Extensions
 
 Public Class Form1
     Private wsProduto As webService.wsProdutoSoapClient

@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UI", "UI\UI.vbproj", "{1200F27A-254A-4137-A15F-E5858802AA51}"
-EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BLL", "BLL\BLL.vbproj", "{D7B654C4-667C-4534-8EB4-E01E62D26AE6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{AFA73DC2-B764-472F-9473-316E9A771E67}"
-EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebSiteWS", "WebSiteWS\WebSiteWS.vbproj", "{7FB9F3BE-A0E3-4196-8160-220E63AC1583}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1 - UI", "1 - UI\1 - UI.vbproj", "{1200F27A-254A-4137-A15F-E5858802AA51}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2 - BLL", "2 - BLL\2 - BLL.vbproj", "{D7B654C4-667C-4534-8EB4-E01E62D26AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 - DAL", "3 - DAL\3 - DAL.csproj", "{AFA73DC2-B764-472F-9473-316E9A771E67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB9F3BE-A0E3-4196-8160-220E63AC1583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB9F3BE-A0E3-4196-8160-220E63AC1583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB9F3BE-A0E3-4196-8160-220E63AC1583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB9F3BE-A0E3-4196-8160-220E63AC1583}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1200F27A-254A-4137-A15F-E5858802AA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1200F27A-254A-4137-A15F-E5858802AA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1200F27A-254A-4137-A15F-E5858802AA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,10 +31,6 @@ Global
 		{AFA73DC2-B764-472F-9473-316E9A771E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFA73DC2-B764-472F-9473-316E9A771E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFA73DC2-B764-472F-9473-316E9A771E67}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7FB9F3BE-A0E3-4196-8160-220E63AC1583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7FB9F3BE-A0E3-4196-8160-220E63AC1583}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7FB9F3BE-A0E3-4196-8160-220E63AC1583}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7FB9F3BE-A0E3-4196-8160-220E63AC1583}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

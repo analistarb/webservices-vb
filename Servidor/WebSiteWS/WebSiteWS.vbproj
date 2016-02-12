@@ -138,13 +138,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BLL\BLL.vbproj">
+    <ProjectReference Include="..\2 - BLL\2 - BLL.vbproj">
       <Project>{d7b654c4-667c-4534-8eb4-e01e62d26ae6}</Project>
-      <Name>BLL</Name>
+      <Name>2 - BLL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DAL\DAL.csproj">
+    <ProjectReference Include="..\3 - DAL\3 - DAL.csproj">
       <Project>{afa73dc2-b764-472f-9473-316e9a771e67}</Project>
-      <Name>DAL</Name>
+      <Name>3 - DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

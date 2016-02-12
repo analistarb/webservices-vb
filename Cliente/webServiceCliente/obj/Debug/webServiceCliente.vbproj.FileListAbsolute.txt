@@ -8,3 +8,7 @@ C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCli
 C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\obj\Debug\webServiceCliente.exe
 C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\obj\Debug\webServiceCliente.xml
 C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\obj\Debug\webServiceCliente.pdb
+C:\Users\Workstation\Desktop\07) Seleção\01) DotNet\07) WebService\webservices-vb\Cliente\webServiceCliente\bin\Debug\webServiceCliente.exe.config
+C:\Users\Workstation\Desktop\07) Seleção\01) DotNet\07) WebService\webservices-vb\Cliente\webServiceCliente\obj\Debug\webServiceCliente.exe
+C:\Users\Workstation\Desktop\07) Seleção\01) DotNet\07) WebService\webservices-vb\Cliente\webServiceCliente\obj\Debug\webServiceCliente.xml
+C:\Users\Workstation\Desktop\07) Seleção\01) DotNet\07) WebService\webservices-vb\Cliente\webServiceCliente\obj\Debug\webServiceCliente.pdb
