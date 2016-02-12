@@ -1,0 +1,13 @@
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\bin\Release\BLL.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\bin\Release\BLL.pdb
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\bin\Release\BLL.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\bin\Release\DAL.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\bin\Release\EntityFramework.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\bin\Release\DAL.pdb
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\bin\Release\EntityFramework.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\obj\Release\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\obj\Release\BLL.Resources.resources
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\obj\Release\BLL.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\obj\Release\BLL.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\obj\Release\BLL.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\BLL\obj\Release\BLL.pdb

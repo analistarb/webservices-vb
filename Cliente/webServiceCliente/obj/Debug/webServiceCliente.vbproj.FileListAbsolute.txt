@@ -1,0 +1,10 @@
+C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\bin\Debug\webServiceCliente.exe.config
+C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\bin\Debug\webServiceCliente.exe
+C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\bin\Debug\webServiceCliente.pdb
+C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\bin\Debug\webServiceCliente.xml
+C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\obj\Debug\webServiceCliente.Form1.resources
+C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\obj\Debug\webServiceCliente.Resources.resources
+C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\obj\Debug\webServiceCliente.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\obj\Debug\webServiceCliente.exe
+C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\obj\Debug\webServiceCliente.xml
+C:\Users\Workstation\Desktop\JSON Cliente VB.net\webServiceCliente\webServiceCliente\obj\Debug\webServiceCliente.pdb

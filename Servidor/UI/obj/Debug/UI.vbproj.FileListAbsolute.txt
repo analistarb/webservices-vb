@@ -1,0 +1,8 @@
+C:\Users\Workstation\Desktop\VB.Net\Application\UI\bin\Debug\UI.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\UI\bin\Debug\UI.pdb
+C:\Users\Workstation\Desktop\VB.Net\Application\UI\bin\Debug\UI.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\UI\obj\Debug\UI.Resources.resources
+C:\Users\Workstation\Desktop\VB.Net\Application\UI\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\VB.Net\Application\UI\obj\Debug\UI.dll
+C:\Users\Workstation\Desktop\VB.Net\Application\UI\obj\Debug\UI.xml
+C:\Users\Workstation\Desktop\VB.Net\Application\UI\obj\Debug\UI.pdb
